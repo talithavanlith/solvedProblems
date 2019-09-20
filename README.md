@@ -1,2 +1,2 @@
 # solvedProblems
-A collection of coding problems I solved in my last year of University. Some were solved individually, some in a pair and some in a group.
+A collection of coding problems I solved at University. Some are individual, some in a pair and some in a group.
